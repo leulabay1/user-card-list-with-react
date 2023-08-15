@@ -1,0 +1,11 @@
+.App{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(32, 32, 37);
+  color: white;
+}
+ul{
+  list-style-type: none;
+}
